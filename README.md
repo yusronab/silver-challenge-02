@@ -21,7 +21,7 @@ kemudian jika `key` lebih besar maka posisinya akan bertukar.
 
 > *Completed by [yusronab](https://www.instagram.com/yusr0nab/), Updated on September 1*
 
-<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="width:50%;" /></center>
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="width:50%;" /></p>
 
 ## `filterCarByAvailability`
 
