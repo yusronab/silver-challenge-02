@@ -19,9 +19,9 @@ salah satu algoritma sorting yaitu **Insertion Sort**, dimana cara kerja algorit
 ini adalah membandingkan nilai variabel `key` dengan nilai variabel sebelumnya,
 kemudian jika `key` lebih besar maka posisinya akan bertukar.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="width:75%;" />
-
 > *Completed by [yusronab](https://www.instagram.com/yusr0nab/), Updated on September 1*
+
+<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="width:50%;" /></center>
 
 ## `filterCarByAvailability`
 

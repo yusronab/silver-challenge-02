@@ -7,6 +7,8 @@ function sortCarByYearDescendingly(cars) {
   const result = [...cars];
 
   // Tulis code-mu disini
+  // Yusron Arly Bazarah
+
   for (let i = 1; i < result.length; i++) {
     let newVal = result[i]
     let key = result[i].year
