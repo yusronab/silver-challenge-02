@@ -14,10 +14,12 @@ Dimana masing-masing file tersebut terdapat sebuah fungsi. Penjelasan terkait fu
 - [x] sortCarByYearAscendingly
 - [x] sortCarByYearDecendingly
 
-Untuk fungsi `sortCarByYearAscendingly` dan `sortCarByYearDescendingly`saya menggunakan
+Untuk fungsi `sortCarByYearAscendingly` dan `sortCarByYearDescendingly` saya menggunakan
 salah satu algoritma sorting yaitu **Insertion Sort**, dimana cara kerja algoritma
 ini adalah membandingkan nilai variabel `key` dengan nilai variabel sebelumnya,
 kemudian jika `key` lebih besar maka posisinya akan bertukar.
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="width:75%;" />
 
 > *Completed by [yusronab](https://www.instagram.com/yusr0nab/), Updated on September 1*
 
